@@ -8,6 +8,8 @@ The purpose of the analysis is to utilize the Kickstarter information to determi
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![image](https://user-images.githubusercontent.com/85522326/124329334-4324f580-db59-11eb-991e-c0ff6a046dee.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
