@@ -11,7 +11,7 @@ The purpose of the analysis is to utilize the Kickstarter information to determi
 
 
 ### Analysis of Outcomes Based on Goals
-https://github.com/dannybarto/AddingFilesDemo/blob/main/Outcomes_vs_Goals.png?raw=true
+![image](https://user-images.githubusercontent.com/85522326/124329136-eaedf380-db58-11eb-9ec4-5bc75cc19a71.png)
 
 ### Challenges and Difficulties Encountered
 
