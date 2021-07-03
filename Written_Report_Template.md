@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of the analysis is to utilize the Kickstarter information to determine the optimal parameters to use in order to understand the conditions needed for a successful outcome
+The purpose of the analysis is to utilize the Kickstarter information to determine whether or not there are particular factors involved successful successful outcomes and what the information can tell us about the prospects for Louise's Kickstarter for her own play, Fever.
 
 ## Analysis and Challenges
 
