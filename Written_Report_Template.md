@@ -34,6 +34,6 @@ It can be concluded that the smaller the goal is the more likely it is that it w
 
 - What are some limitations of this dataset?
 
--   One of the limitations is the outcome designated as "live." There are 51 data points that really missed because of this. Also, since the goal and pledged data    is presented in USD the currency column is irrelevant unless we convert to currency. Also, did some of the "failed" campaigns ultimately go "live?" I also think that Outcomes Based on Launch Date could be misleading because there is a larger set to look at for some months over others. So while we can look at springtime being ideal for launch we might also consider that it is due to the fact that this is when the most campaigns have been launched previously.
+  -   One of the limitations is the outcome designated as "live." There are 51 data points that really missed because of this. Also, since the goal and pledged data    is presented in USD the currency column is irrelevant unless we convert to currency. Also, did some of the "failed" campaigns ultimately go "live?" I also think    that Outcomes Based on Launch Date could be misleading because there is a larger set to look at for some months over others. So while we can look at springtime       being ideal for launch we might also consider that it is due to the fact that this is when the most campaigns have been launched previously.
 
 - What are some other possible tables and/or graphs that we could create?
