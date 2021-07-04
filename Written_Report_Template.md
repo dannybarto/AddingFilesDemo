@@ -8,6 +8,8 @@ The purpose of the analysis is to utilize the Kickstarter information to determi
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+The first thing I noted is that the months of May through July are the best time to launch a campaign. The number of is fairly negligible across the year while the number of failures loosely tracks with success but the gap does begin to close starting in October and running through December. 
+
 ![image](https://user-images.githubusercontent.com/85522326/124329334-4324f580-db59-11eb-991e-c0ff6a046dee.png)
 
 
