@@ -17,7 +17,7 @@ The first thing I noted is that the months of May through July are the best time
 ### Analysis of Outcomes Based on Goals
 The data for outcomes based on goals tells us that smaller goals have a better chance for success. In fact, there is an inverse relationship between the goal amount and whether or not it was failed or successful. At the $15,000 to $19,999 level there is an even chance of success or failure. Between $35,000 to $49,999 is a small window where higher goals correspond to a better chance for success over failure but the number of campaigns in this window is very small compared to the lower goals. I would say the best chance for success would be to set the goal somewhere between less than $1,000 to $19,999.
 
-![image](https://user-images.githubusercontent.com/85522326/124329136-eaedf380-db58-11eb-9ec4-5bc75cc19a71.png)
+![image](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
