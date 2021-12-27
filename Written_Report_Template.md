@@ -43,4 +43,4 @@ The data for outcomes based on goals tells us that smaller goals have a better c
 
 - What are some other possible tables and/or graphs that we could create?
   - We could look at the length of the campaign
-  - We could also take a look at the entire data set applying the same analysis as we did for just plays or other smaller sets
+  - We could also take a look at the entire data set applying the same analysis as we did for just plays or other smaller sets for sure
